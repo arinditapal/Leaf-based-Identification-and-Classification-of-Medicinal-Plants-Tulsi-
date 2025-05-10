@@ -1,0 +1,8 @@
+.venv/
+border_images/
+images/
+basil_dataset.csv
+classify_pepper_chocolate_mints_.ipynb
+color_percent_extractor.ipynb
+glcm.ipynb
+shape.ipynb
